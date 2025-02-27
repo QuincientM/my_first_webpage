@@ -1,0 +1,12 @@
+body {
+	background-color: purple;
+
+}
+.header {
+	display: flex;
+	background-color: teal;
+}
+
+	.header > div {
+		background-color: #f1f1f1;
+	}
