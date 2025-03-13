@@ -32,7 +32,7 @@ padding: 0 50px;
 
 #navbar__logo {
 background-color: #ff8177;
-background-image: linear-gradient(to top, red 0%, #ffb814);
+background-image: linear-gradient(to top, #ffb814, purple);
 background-size: 100%;
 -webkit-background-clip: text;
 -moz-background-clip: text;
@@ -89,7 +89,7 @@ text-align: center;
     border: none;
     outline: none;
     border-radius: 4px;
-    background: #f77062;
+    background: #ffb814;
     color: #fff;
 }
 
@@ -99,7 +99,7 @@ text-align: center;
 }
 
 .navbar__links:hover {
-color: #f77062;
+color: purple;
 transition: all 0.3s, ease;
 }
 
